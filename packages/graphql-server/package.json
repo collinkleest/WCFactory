@@ -41,7 +41,7 @@
     "owc-dev-server": "0.4.3",
     "parcel-bundler": "1.12.4",
     "webpack": "4.44.2",
-    "webpack-cli": "3.3.12",
+    "webpack-cli": "4.4.0",
     "webpack-dev-server": "3.11.0",
     "xterm": "3.14.5",
     "subscriptions-transport-ws": "0.9.18"
